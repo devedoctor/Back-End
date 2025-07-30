@@ -1,0 +1,232 @@
+﻿@model StudentResultsApp.Models.StudentResult
+@{
+    ViewData["Title"] = "Student Results";
+}
+
+<div class="container mt-4">
+    <!-- Header Section -->
+    <div class="card mb-4">
+        <div class="card-header bg-info text-white">
+            <h3 class="text-center">نتيجة طالب</h3>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4">
+                    <p><strong>Name:</strong> @Model.Name</p>
+                </div>
+                <div class="col-md-4">
+                    <p><strong>ID:</strong> @Model.Id</p>
+                </div>
+                <div class="col-md-4">
+                    <p><strong>Set No:</strong> @Model.SetNo</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <p><strong>Stage:</strong> @Model.Stage</p>
+                </div>
+                <div class="col-md-4">
+                    <p><strong>Grade:</strong> @Model.Grade</p>
+                </div>
+                <div class="col-md-4">
+                    <p><strong>Percentage:</strong> @Model.TotalPercentage</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Subjects Table -->
+    <div class="table-responsive mb-4">
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Subject</th>
+                    <th>Max Degree</th>
+                    <th>Min Degree</th>
+                    <th>Student Degree</th>
+                    <th>Graduation</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Subject 1 -->
+                <tr>
+                    <td>@Model.Subject1Name</td>
+                    <td>@Model.Subject1MaxDegree</td>
+                    <td>@Model.Subject1minDegree</td>
+                    <td>@Model.Subject1StudentDegree</td>
+                    <td>@Model.Subject1StudentGraduation</td>
+                </tr>
+                <!-- Subject 2 -->
+                <tr>
+                    <td>@Model.Subject2Name</td>
+                    <td>@Model.Subject2MaxDegree</td>
+                    <td>@Model.Subject2MinDegree</td>
+                    <td>@Model.Subject2StudentDegree</td>
+                    <td>@Model.Subject2StudentGraduation</td>
+                </tr>
+                <!-- Subject 3 -->
+                <tr>
+                    <td>@Model.Subject3Name</td>
+                    <td>@Model.Subject3MaxDegree</td>
+                    <td>@Model.Subject3MinDegree</td>
+                    <td>@Model.Subject3StudentDegree</td>
+                    <td>@Model.Subject3StudentGraduation</td>
+                </tr>
+                <!-- Subject 4 -->
+                <tr>
+                    <td>@Model.Subject4Name</td>
+                    <td>@Model.Subject4MaxDegree</td>
+                    <td>@Model.Subject4MinDegree</td>
+                    <td>@Model.Subject4StudentDegree</td>
+                    <td>@Model.Subject4StudentGraduation</td>
+                </tr>
+                <!-- Subject 5 -->
+                <tr>
+                    <td>@Model.Subject5Name</td>
+                    <td>@Model.Subject5MaxDegree</td>
+                    <td>@Model.Subject5MinDegree</td>
+                    <td>@Model.Subject5StudentDegree</td>
+                    <td>@Model.Subject5StudentGraduation</td>
+                </tr>
+                <!-- Subject 6 -->
+                <tr>
+                    <td>@Model.Subject6Name</td>
+                    <td>@Model.Subject6MaxDegree</td>
+                    <td>@Model.Subject6MinDegree</td>
+                    <td>@Model.Subject6StudentDegree</td>
+                    <td>@Model.Subject6StudentGraduation</td>
+                </tr>
+                <!-- Subject 7 -->
+                <tr>
+                    <td>@Model.Subject7Name</td>
+                    <td>@Model.Subject7MaxDegree</td>
+                    <td>@Model.Subject7MinDegree</td>
+                    <td>@Model.Subject7StudentDegree</td>
+                    <td>@Model.Subject7StudentGraduation</td>
+                </tr>
+                <!-- Subject 8 -->
+                <tr>
+                    <td>@Model.Subject8Name</td>
+                    <td>@Model.Subject8MaxDegree</td>
+                    <td>@Model.Subject8MinDegree</td>
+                    <td>@Model.Subject8StudentDegree</td>
+                    <td>@Model.Subject8StudentGraduation</td>
+                </tr>
+                <!-- Subject 9 -->
+                <tr>
+                    <td>@Model.Subject9Name</td>
+                    <td>@Model.Subject9MaxDegree</td>
+                    <td>@Model.Subject9MinDegree</td>
+                    <td>@Model.Subject9StudentDegree</td>
+                    <td>@Model.Subject9StudentGraduation</td>
+                </tr>
+                <!-- Subject 10 -->
+                <tr>
+                    <td>@Model.Subject10Name</td>
+                    <td>@Model.Subject10MaxDegree</td>
+                    <td>@Model.Subject10MinDegree</td>
+                    <td>@Model.Subject10StudentDegree</td>
+                    <td>@Model.Subject10StudentGraduation</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Footer Section -->
+    <div class="card mb-4 ">
+        <div class="card-header bg-secondary text-white">
+            <h4 class="text-center">النتيجه النهائيه</h4>
+        </div>
+        <div class="card-body mb-4">
+            <div class="row">
+                <div class="col-md-3">
+                    <p><strong>Total Max:</strong> @Model.TotalMaxDegree</p>
+                </div>
+                <div class="col-md-3">
+                    <p><strong>Total Min:</strong> @Model.TotalminDegree</p>
+                </div>
+                <div class="col-md-3">
+                    <p><strong>Student Degree:</strong> @Model.TotalStudentDegree</p>
+                </div>
+                <div class="col-md-3">
+                    <p><strong>Graduation:</strong> @Model.TotalGraduation</p>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col-12">
+                    <p><strong>Percentage:</strong> @Model.TotalPercentage</p>
+                    <div class="progress" style="height: 50px; width: 80%; margin: 0 auto;">
+                        <div class="progress-bar @Model.ProgressBarColor"
+                             role="progressbar"
+                             style="width: 100%"
+                             aria-valuenow="100"
+                             aria-valuemin="0"
+                             aria-valuemax="100"
+                             title="@Model.TotalGraduation">
+                            <!-- Shows status on hover -->
+                        </div>
+                    </div>
+                    <div class="color-legend mt-4">
+                        <div class="color-item">
+                            <div class="color-box bg-primary"></div>
+                            <small>Excellent</small>
+                        </div>
+                        <div class="color-item">
+                            <div class="color-box bg-success"></div>
+                            <small>Very Good</small>
+                        </div>
+                        <div class="color-item">
+                            <div class="color-box bg-warning"></div>
+                            <small>Good/Pass</small>
+                        </div>
+                        <div class="color-item">
+                            <div class="color-box bg-danger"></div>
+                            <small>Fail</small>
+                        </div>
+                    </div>
+                    <div class="text-center mt-4">
+                        <small class="text-muted">
+                            Graduation Status: <span class="fw-bold">@Model.TotalGraduation</span>
+                        </small>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Custom styles for the progress bar */
+    .progress {
+        margin-top: 5px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        background-color: #f0f0f0;
+    }
+
+    .progress-bar {
+        border-radius: 5px;
+    }
+
+    /* Color legend */
+    .color-legend {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 10px;
+    }
+
+    .color-item {
+        display: flex;
+        align-items: center;
+    }
+
+    .color-box {
+        width: 15px;
+        height: 15px;
+        margin-right: 5px;
+        border-radius: 3px;
+    }
+</style>
+

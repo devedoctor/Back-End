@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Student Login";
+}
+
+<!-- Add this to your existing layout where the form should appear -->
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 80vh; margin-top: 5rem;">
+    <div class="col-lg-5 col-md-7 col-sm-9 animate__animated animate__fadeIn">
+        <div class="card border-0 shadow-lg" style="border-radius: 20px;">
+            <div class="card-header bg-primary text-white text-center py-3"
+                 style="border-top-left-radius: 20px; border-top-right-radius: 20px;">
+                <h3 class="m-0">شاشة الدخول</h3>
+            </div>
+            <div class="card-body p-4">
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger animate__animated animate__headShake">@ViewBag.Error</div>
+                }
+                <form method="post" asp-action="Login">
+                    <div class="mb-4">
+                        <label for="setNo" class="form-label fs-5">Set Number:</label>
+                        <input type="number" class="form-control py-3" id="setNo" name="setNo" required
+                               style="border-radius: 12px;">
+                    </div>
+                    <div class="mb-4">
+                        <label for="id" class="form-label fs-5">Student ID:</label>
+                        <input type="number" class="form-control py-3" id="id" name="id" required
+                               style="border-radius: 12px;">
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100 fw-bold py-3"
+                            style="border-radius: 12px;">
+                        SUBMIT
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Add this script at the bottom of your layout page -->
+<script>
+    // Trigger animations after page load
+    document.addEventListener('DOMContentLoaded', () => {
+        const formCard = document.querySelector('.animate__fadeIn');
+        formCard.style.setProperty('--animate-duration', '0.6s');
+    });
+</script>

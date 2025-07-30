@@ -1,0 +1,1144 @@
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\appsettings.json
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.exe
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.deps.json
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.runtimeconfig.json
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\scopedcss\bundle\StudentResultsApp.styles.css
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\scopedcss\projectbundle\StudentResultsApp.bundle.scp.css
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\81lkutm63a-61n19gt1b8.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\o49k00y0xg-xtxxf3hu2r.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\9wbqh59kbb-bqjiyaj88i.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\no6ueo8s2s-c2jlpeoesf.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\jclzdakfkm-erw9l3u2r3.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\dne1y74of4-aexeepp0ev.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\k17390xdo5-d7shbmvgxk.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\tber2pnfw9-ausgxo2sd3.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\rioyuzoizr-k8d9w2qqmf.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\5sotbwadtz-cosvhxvwiu.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\9ll1o1mayz-ub07r2b239.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\3g0aluortx-fvhpjtyr6v.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\5p3wti6ukz-b7pk76d08c.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\scodeoh5wv-fsbi9cje9m.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\h2q4n8pwbg-rzd6atqjts.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\thhdger9cc-ee0r1s7dh0.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\fwfejxwyqm-dxx9fxp4il.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\fq5vlm01m4-jd9uben2k1.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\32v3moutol-khv3u5hwcm.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\o5bd0a6pso-r4e9w2rdcm.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\zfwvgol0i3-lcd1t2u6c8.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\hlflfly3y5-c2oey78nd0.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\0ux6zthwfq-tdbxkamptv.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\cip7389mtd-j5mq2jizvt.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\at8p28biyr-06098lyss8.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\98d44virf1-nvvlpmu67g.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\3xut2o3nvt-s35ty4nyc5.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\uvmto0asme-pj5nd1wqec.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\t0s1hvdhw7-46ein0sx1k.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\eknb55h0l7-v0zj4ognzu.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\kpljvyhss8-37tfw0ft22.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\cxfshrjy7r-hrwsygsryq.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\ug0snm58oh-pk9g2wxc8p.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\us7dd9wj11-ft3s53vfgj.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\bewckd6ap8-6cfz1n2cew.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\08y73dkxr8-6pdc2jztkx.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\2sqm62agfi-493y06b0oq.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\v8lzqhiiah-iovd86k7lj.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\gx0nfromb0-vr1egmr9el.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\0osxoejbh2-kbrnm935zg.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\h0bpoxqi5h-jj8uyg4cgr.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\u1y3hma30i-y7v9cxd14o.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\qwix5lbhi1-notf2xhcfb.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\yv25gj7288-h1s4sie4z3.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\yc9b9a3law-63fj8s7r0e.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\p7uwvqdpsa-0j3bgjxly4.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\gqgcpmmtex-47otxtyo56.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\urqc402alr-4v8eqarkd7.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\xihi1yhg79-356vix0kms.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\ugnzu3x60o-83jwlth58m.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\fpdr275hj4-mrlpezrjn3.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\erjzv1oiu8-lzl9nlhx6b.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\6hbggqf884-ag7o75518u.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\ey1q86n0nl-x0q3zqp4vz.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\001aabnvvf-0i3buxo5is.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\zccohjzwvc-o1o13a6vjx.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\rfebzgx0yz-ttgo8qnofa.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\2lk8sd61mz-2z0ns9nrw6.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\4p2g6l1j30-muycvpuwrr.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\u6wlhgx8a2-87fc7y1x7t.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\0fgub5u3j8-mlv21k5csn.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\e8cb9udsya-0x5p2wbwri.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\npeykktmx8-xmbf96jky9.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\uwcse0oo6z-xmbf96jky9.gz
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentR.B2E4B86B.Up2Date
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\refint\StudentResultsApp.dll
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\ref\StudentResultsApp.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\appsettings.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.runtime.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.endpoints.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.exe
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.deps.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.runtimeconfig.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.AssemblyReference.cache
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfoInputs.cache
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfo.cs
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.CoreCompileInputs.cache
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cache
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cs
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\scopedcss\bundle\StudentResultsApp.styles.css
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\scopedcss\projectbundle\StudentResultsApp.bundle.scp.css
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\e8cb9udsya-0x5p2wbwri.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\81lkutm63a-61n19gt1b8.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\o49k00y0xg-xtxxf3hu2r.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\9wbqh59kbb-bqjiyaj88i.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\no6ueo8s2s-c2jlpeoesf.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\jclzdakfkm-erw9l3u2r3.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\dne1y74of4-aexeepp0ev.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\k17390xdo5-d7shbmvgxk.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\tber2pnfw9-ausgxo2sd3.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\rioyuzoizr-k8d9w2qqmf.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\5sotbwadtz-cosvhxvwiu.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\9ll1o1mayz-ub07r2b239.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\3g0aluortx-fvhpjtyr6v.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\5p3wti6ukz-b7pk76d08c.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\scodeoh5wv-fsbi9cje9m.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\h2q4n8pwbg-rzd6atqjts.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\thhdger9cc-ee0r1s7dh0.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\fwfejxwyqm-dxx9fxp4il.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\fq5vlm01m4-jd9uben2k1.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\32v3moutol-khv3u5hwcm.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\o5bd0a6pso-r4e9w2rdcm.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\zfwvgol0i3-lcd1t2u6c8.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\hlflfly3y5-c2oey78nd0.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\0ux6zthwfq-tdbxkamptv.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\cip7389mtd-j5mq2jizvt.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\at8p28biyr-06098lyss8.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\98d44virf1-nvvlpmu67g.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\3xut2o3nvt-s35ty4nyc5.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\uvmto0asme-pj5nd1wqec.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\t0s1hvdhw7-46ein0sx1k.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\eknb55h0l7-v0zj4ognzu.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\kpljvyhss8-37tfw0ft22.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\cxfshrjy7r-hrwsygsryq.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\ug0snm58oh-pk9g2wxc8p.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\us7dd9wj11-ft3s53vfgj.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\bewckd6ap8-6cfz1n2cew.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\08y73dkxr8-6pdc2jztkx.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\2sqm62agfi-493y06b0oq.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\v8lzqhiiah-iovd86k7lj.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\gx0nfromb0-vr1egmr9el.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\0osxoejbh2-kbrnm935zg.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\h0bpoxqi5h-jj8uyg4cgr.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\u1y3hma30i-y7v9cxd14o.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\qwix5lbhi1-notf2xhcfb.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\yv25gj7288-h1s4sie4z3.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\yc9b9a3law-63fj8s7r0e.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\p7uwvqdpsa-0j3bgjxly4.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\gqgcpmmtex-47otxtyo56.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\urqc402alr-4v8eqarkd7.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\xihi1yhg79-356vix0kms.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\ugnzu3x60o-83jwlth58m.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\fpdr275hj4-mrlpezrjn3.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\erjzv1oiu8-lzl9nlhx6b.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\6hbggqf884-ag7o75518u.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\ey1q86n0nl-x0q3zqp4vz.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\001aabnvvf-0i3buxo5is.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\zccohjzwvc-o1o13a6vjx.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\rfebzgx0yz-ttgo8qnofa.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\2lk8sd61mz-2z0ns9nrw6.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\4p2g6l1j30-muycvpuwrr.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\u6wlhgx8a2-87fc7y1x7t.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\0fgub5u3j8-mlv21k5csn.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\npeykktmx8-xmbf96jky9.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\compressed\uwcse0oo6z-xmbf96jky9.gz
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets\msbuild.StudentResultsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets\msbuild.StudentResultsApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets\msbuild.build.StudentResultsApp.props
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.StudentResultsApp.props
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.StudentResultsApp.props
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentR.B2E4B86B.Up2Date
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\refint\StudentResultsApp.dll
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.genruntimeconfig.cache
+C:\Users\drmohammed\Desktop\mobile\StudentResultsApp\obj\Debug\net9.0\ref\StudentResultsApp.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\appsettings.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.runtime.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.endpoints.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.exe
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.deps.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.runtimeconfig.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.AssemblyReference.cache
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfoInputs.cache
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfo.cs
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.CoreCompileInputs.cache
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cache
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cs
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\scopedcss\bundle\StudentResultsApp.styles.css
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\scopedcss\projectbundle\StudentResultsApp.bundle.scp.css
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\e8cb9udsya-0x5p2wbwri.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\81lkutm63a-61n19gt1b8.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\o49k00y0xg-xtxxf3hu2r.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\9wbqh59kbb-bqjiyaj88i.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\no6ueo8s2s-c2jlpeoesf.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\jclzdakfkm-erw9l3u2r3.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\dne1y74of4-aexeepp0ev.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\k17390xdo5-d7shbmvgxk.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\tber2pnfw9-ausgxo2sd3.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\rioyuzoizr-k8d9w2qqmf.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\5sotbwadtz-cosvhxvwiu.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\9ll1o1mayz-ub07r2b239.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\3g0aluortx-fvhpjtyr6v.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\5p3wti6ukz-b7pk76d08c.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\scodeoh5wv-fsbi9cje9m.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\h2q4n8pwbg-rzd6atqjts.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\thhdger9cc-ee0r1s7dh0.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\fwfejxwyqm-dxx9fxp4il.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\fq5vlm01m4-jd9uben2k1.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\32v3moutol-khv3u5hwcm.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\o5bd0a6pso-r4e9w2rdcm.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\zfwvgol0i3-lcd1t2u6c8.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\hlflfly3y5-c2oey78nd0.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\0ux6zthwfq-tdbxkamptv.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\cip7389mtd-j5mq2jizvt.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\at8p28biyr-06098lyss8.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\98d44virf1-nvvlpmu67g.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\3xut2o3nvt-s35ty4nyc5.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\uvmto0asme-pj5nd1wqec.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\t0s1hvdhw7-46ein0sx1k.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\eknb55h0l7-v0zj4ognzu.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\kpljvyhss8-37tfw0ft22.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\cxfshrjy7r-hrwsygsryq.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\ug0snm58oh-pk9g2wxc8p.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\us7dd9wj11-ft3s53vfgj.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\bewckd6ap8-6cfz1n2cew.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\08y73dkxr8-6pdc2jztkx.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\2sqm62agfi-493y06b0oq.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\v8lzqhiiah-iovd86k7lj.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\gx0nfromb0-vr1egmr9el.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\0osxoejbh2-kbrnm935zg.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\h0bpoxqi5h-jj8uyg4cgr.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\u1y3hma30i-y7v9cxd14o.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\qwix5lbhi1-notf2xhcfb.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\yv25gj7288-h1s4sie4z3.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\yc9b9a3law-63fj8s7r0e.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\p7uwvqdpsa-0j3bgjxly4.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\gqgcpmmtex-47otxtyo56.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\urqc402alr-4v8eqarkd7.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\xihi1yhg79-356vix0kms.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\ugnzu3x60o-83jwlth58m.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\fpdr275hj4-mrlpezrjn3.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\erjzv1oiu8-lzl9nlhx6b.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\6hbggqf884-ag7o75518u.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\ey1q86n0nl-x0q3zqp4vz.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\001aabnvvf-0i3buxo5is.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\zccohjzwvc-o1o13a6vjx.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\rfebzgx0yz-ttgo8qnofa.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\2lk8sd61mz-2z0ns9nrw6.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\4p2g6l1j30-muycvpuwrr.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\u6wlhgx8a2-87fc7y1x7t.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\0fgub5u3j8-mlv21k5csn.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\npeykktmx8-xmbf96jky9.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\compressed\uwcse0oo6z-xmbf96jky9.gz
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentR.B2E4B86B.Up2Date
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\refint\StudentResultsApp.dll
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.genruntimeconfig.cache
+C:\Users\PHARMACY 1\Desktop\New folder\StudentResultsApp\obj\Debug\net9.0\ref\StudentResultsApp.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\appsettings.json
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.exe
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.deps.json
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.runtimeconfig.json
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\scopedcss\bundle\StudentResultsApp.styles.css
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\scopedcss\projectbundle\StudentResultsApp.bundle.scp.css
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\e8cb9udsya-0x5p2wbwri.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\81lkutm63a-61n19gt1b8.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\o49k00y0xg-xtxxf3hu2r.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\9wbqh59kbb-bqjiyaj88i.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\no6ueo8s2s-c2jlpeoesf.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\jclzdakfkm-erw9l3u2r3.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\dne1y74of4-aexeepp0ev.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\k17390xdo5-d7shbmvgxk.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\tber2pnfw9-ausgxo2sd3.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\rioyuzoizr-k8d9w2qqmf.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\5sotbwadtz-cosvhxvwiu.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\9ll1o1mayz-ub07r2b239.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\3g0aluortx-fvhpjtyr6v.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\5p3wti6ukz-b7pk76d08c.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\scodeoh5wv-fsbi9cje9m.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\h2q4n8pwbg-rzd6atqjts.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\thhdger9cc-ee0r1s7dh0.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\fwfejxwyqm-dxx9fxp4il.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\fq5vlm01m4-jd9uben2k1.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\32v3moutol-khv3u5hwcm.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\o5bd0a6pso-r4e9w2rdcm.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\zfwvgol0i3-lcd1t2u6c8.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\hlflfly3y5-c2oey78nd0.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\0ux6zthwfq-tdbxkamptv.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\cip7389mtd-j5mq2jizvt.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\at8p28biyr-06098lyss8.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\98d44virf1-nvvlpmu67g.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\3xut2o3nvt-s35ty4nyc5.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\uvmto0asme-pj5nd1wqec.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\t0s1hvdhw7-46ein0sx1k.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\eknb55h0l7-v0zj4ognzu.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\kpljvyhss8-37tfw0ft22.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\cxfshrjy7r-hrwsygsryq.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\ug0snm58oh-pk9g2wxc8p.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\us7dd9wj11-ft3s53vfgj.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\bewckd6ap8-6cfz1n2cew.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\08y73dkxr8-6pdc2jztkx.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\2sqm62agfi-493y06b0oq.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\v8lzqhiiah-iovd86k7lj.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\gx0nfromb0-vr1egmr9el.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\0osxoejbh2-kbrnm935zg.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\h0bpoxqi5h-jj8uyg4cgr.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\u1y3hma30i-y7v9cxd14o.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\qwix5lbhi1-notf2xhcfb.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\yv25gj7288-h1s4sie4z3.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\yc9b9a3law-63fj8s7r0e.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\p7uwvqdpsa-0j3bgjxly4.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\gqgcpmmtex-47otxtyo56.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\urqc402alr-4v8eqarkd7.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\xihi1yhg79-356vix0kms.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\ugnzu3x60o-83jwlth58m.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\fpdr275hj4-mrlpezrjn3.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\erjzv1oiu8-lzl9nlhx6b.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\6hbggqf884-ag7o75518u.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\ey1q86n0nl-x0q3zqp4vz.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\001aabnvvf-0i3buxo5is.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\zccohjzwvc-o1o13a6vjx.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\rfebzgx0yz-ttgo8qnofa.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\2lk8sd61mz-2z0ns9nrw6.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\4p2g6l1j30-muycvpuwrr.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\u6wlhgx8a2-87fc7y1x7t.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\0fgub5u3j8-mlv21k5csn.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\npeykktmx8-xmbf96jky9.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\uwcse0oo6z-xmbf96jky9.gz
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentR.B2E4B86B.Up2Date
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.dll
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\refint\StudentResultsApp.dll
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\StudentResultsApp\obj\Debug\net9.0\ref\StudentResultsApp.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\appsettings.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.runtime.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.staticwebassets.endpoints.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.exe
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.deps.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.runtimeconfig.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.AssemblyReference.cache
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfoInputs.cache
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.AssemblyInfo.cs
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.csproj.CoreCompileInputs.cache
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cache
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.RazorAssemblyInfo.cs
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\scopedcss\bundle\StudentResultsApp.styles.css
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\scopedcss\projectbundle\StudentResultsApp.bundle.scp.css
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\e8cb9udsya-0x5p2wbwri.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\81lkutm63a-61n19gt1b8.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\o49k00y0xg-xtxxf3hu2r.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\9wbqh59kbb-bqjiyaj88i.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\no6ueo8s2s-c2jlpeoesf.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\jclzdakfkm-erw9l3u2r3.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\dne1y74of4-aexeepp0ev.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\k17390xdo5-d7shbmvgxk.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\tber2pnfw9-ausgxo2sd3.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\rioyuzoizr-k8d9w2qqmf.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\5sotbwadtz-cosvhxvwiu.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\9ll1o1mayz-ub07r2b239.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\3g0aluortx-fvhpjtyr6v.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\5p3wti6ukz-b7pk76d08c.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\scodeoh5wv-fsbi9cje9m.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\h2q4n8pwbg-rzd6atqjts.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\thhdger9cc-ee0r1s7dh0.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\fwfejxwyqm-dxx9fxp4il.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\fq5vlm01m4-jd9uben2k1.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\32v3moutol-khv3u5hwcm.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\o5bd0a6pso-r4e9w2rdcm.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\zfwvgol0i3-lcd1t2u6c8.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\hlflfly3y5-c2oey78nd0.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\0ux6zthwfq-tdbxkamptv.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\cip7389mtd-j5mq2jizvt.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\at8p28biyr-06098lyss8.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\98d44virf1-nvvlpmu67g.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\3xut2o3nvt-s35ty4nyc5.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\uvmto0asme-pj5nd1wqec.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\t0s1hvdhw7-46ein0sx1k.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\eknb55h0l7-v0zj4ognzu.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\kpljvyhss8-37tfw0ft22.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\cxfshrjy7r-hrwsygsryq.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\ug0snm58oh-pk9g2wxc8p.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\us7dd9wj11-ft3s53vfgj.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\bewckd6ap8-6cfz1n2cew.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\08y73dkxr8-6pdc2jztkx.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\2sqm62agfi-493y06b0oq.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\v8lzqhiiah-iovd86k7lj.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\gx0nfromb0-vr1egmr9el.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\0osxoejbh2-kbrnm935zg.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\h0bpoxqi5h-jj8uyg4cgr.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\u1y3hma30i-y7v9cxd14o.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\qwix5lbhi1-notf2xhcfb.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\yv25gj7288-h1s4sie4z3.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\yc9b9a3law-63fj8s7r0e.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\p7uwvqdpsa-0j3bgjxly4.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\gqgcpmmtex-47otxtyo56.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\urqc402alr-4v8eqarkd7.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\xihi1yhg79-356vix0kms.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\ugnzu3x60o-83jwlth58m.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\fpdr275hj4-mrlpezrjn3.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\erjzv1oiu8-lzl9nlhx6b.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\6hbggqf884-ag7o75518u.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\ey1q86n0nl-x0q3zqp4vz.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\001aabnvvf-0i3buxo5is.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\zccohjzwvc-o1o13a6vjx.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\rfebzgx0yz-ttgo8qnofa.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\2lk8sd61mz-2z0ns9nrw6.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\4p2g6l1j30-muycvpuwrr.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\u6wlhgx8a2-87fc7y1x7t.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\0fgub5u3j8-mlv21k5csn.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\npeykktmx8-xmbf96jky9.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\compressed\uwcse0oo6z-xmbf96jky9.gz
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentR.B2E4B86B.Up2Date
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\refint\StudentResultsApp.dll
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.pdb
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\StudentResultsApp.genruntimeconfig.cache
+C:\Users\PHARMACY 1\Desktop\StudentResultsApp\obj\Debug\net9.0\ref\StudentResultsApp.dll
