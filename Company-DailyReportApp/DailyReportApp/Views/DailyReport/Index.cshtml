@@ -1,0 +1,92 @@
+﻿@model DailyReportApp.Models.DailyReportListViewModel
+
+@{
+    ViewData["Title"] = "Daily Report";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Ensure it uses the shared layout
+}
+
+<div class="container mt-4 ">
+    <h2 class="mb-4 text-center">Daily Report For</h2>
+    <h2 class="mb-4 text-center"> @(Model.SelectedDate.ToString("dd MMMM yyyy"))</h2>
+
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="alert alert-danger" role="alert">
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <p>@error.ErrorMessage</p>
+            }
+        </div>
+    }
+
+    @if (Model.DailyReports != null && Model.DailyReports.Any())
+    {
+        <div class="table-responsive">
+            <table class="table table-striped table-hover table-bordered shadow-sm">
+                <thead class="table-dark">
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.DailyReports.FirstOrDefault().CustCode)</th>
+                        <th>@Html.DisplayNameFor(model => model.DailyReports.FirstOrDefault().CustName)</th>
+                        <th>@Html.DisplayNameFor(model => model.DailyReports.FirstOrDefault().InvoiceNo)</th>
+                        <th>@Html.DisplayNameFor(model => model.DailyReports.FirstOrDefault().Value)</th>
+                     1   <th>@Html.DisplayNameFor(model => model.DailyReports.FirstOrDefault().Date)</th>
+                        <th>@Html.DisplayNameFor(model => model.DailyReports.FirstOrDefault().StudyYear)</th>
+                        <th>@Html.DisplayNameFor(model => model.DailyReports.FirstOrDefault().Users)</th>
+                        <th>@Html.DisplayNameFor(model => model.DailyReports.FirstOrDefault().Statement)</th>
+                        <th>@Html.DisplayNameFor(model => model.DailyReports.FirstOrDefault().Action)</th>
+                        <!-- No need for TotalDebit, TotalCredit, NetDifference in table rows as they are summary -->
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.DailyReports)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.CustCode)</td>
+                            <td>@Html.DisplayFor(modelItem => item.CustName)</td>
+                            <td>@Html.DisplayFor(modelItem => item.InvoiceNo)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Value)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Date)</td>
+                            <td>@Html.DisplayFor(modelItem => item.StudyYear)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Users)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Statement)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Action)</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Summary Textboxes -->
+        <div class="row mt-4 justify-content-center">
+            <div class="col-md-4 mb-3">
+                <div class="form-group">
+                    <label for="TotalDepit" class="form-label fw-bolder">Total Income</label>
+                    <input type="text" id="totalDebit" class="form-control bg-success-subtle fw-bolder" value="@Model.TotalDepit.ToString("C")" readonly />
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="form-group">
+                    <label for="totalCredit" class="form-label fw-bolder">Total Expenses</label>
+                    <input type="text" id="totalCredit" class="form-control bg-danger-subtle fw-bolder" value="@Model.TotalCredit.ToString("C")" readonly />
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="form-group">
+                    <label for="netDifference" class="form-label fw-bolder">Net Income</label>
+                    <input type="text" id="netDifference" class="form-control bg-success-subtle fw-bolder" value="@Model.NetDifference.ToString("C")" readonly />
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info text-center" role="alert">
+            No daily report data found for the selected date.
+        </div>
+    }
+
+    <div class="text-center mt-4">
+        <a asp-action="Login" asp-controller="Account" class="btn btn-return">Up / Select Date </a>
+    </div>
+</div>
+

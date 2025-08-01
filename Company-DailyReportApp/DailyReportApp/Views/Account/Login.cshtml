@@ -1,0 +1,48 @@
+﻿@model DailyReportApp.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Ensure it uses the shared layout
+}
+
+<h2 class="text-center text-primary mb-5 fs-1 fw-bolder "> Financial Daily Report </h2>
+<div class="row justify-content-center  mt-3">
+    <div class="col-md-6 col-lg-4 ">
+
+        <div class="card p-4 shadow-sm  text-white">
+            <h2 class="card-title text-center mb-1 fw-bolder">Director Entry</h2>
+            <hr />
+            <form asp-action="Login" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <div class="mb-3">
+                    <label asp-for="Username" class="form-label fw-bold"></label>
+                    <input asp-for="Username" class="form-control" />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label fw-bold"></label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="mb-4">
+                    <label asp-for="SelectedDate" class="form-label fw-bold"></label>
+                    <input asp-for="SelectedDate" type="date" class="form-control" />
+                    <span asp-validation-for="SelectedDate" class="text-danger"></span>
+                </div>
+
+                <div class="d-grid gap-2">
+                    <button type="submit" class="btn btn-info btn-lg fw-bolder">Login</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

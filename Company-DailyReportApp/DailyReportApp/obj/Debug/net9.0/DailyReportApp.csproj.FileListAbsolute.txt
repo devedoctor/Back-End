@@ -1,0 +1,1411 @@
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.json
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.exe
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.deps.json
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.pdb
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\bundle\DailyReportApp.styles.css
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\projectbundle\DailyReportApp.bundle.scp.css
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\16qvv427so-61n19gt1b8.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\zh2l6bvoh7-xtxxf3hu2r.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a9ulaa5swn-bqjiyaj88i.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z4sl4eouk0-c2jlpeoesf.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hcg3y53546-erw9l3u2r3.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nbs2dfqoo1-aexeepp0ev.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nr0l993rkl-d7shbmvgxk.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\mo3xsg2hdd-ausgxo2sd3.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2h2lmu6shq-k8d9w2qqmf.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\x3ryf0sjef-b7pk76d08c.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\wldplf8m5z-fsbi9cje9m.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gyviqm9td0-rzd6atqjts.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\odu0k0381n-ee0r1s7dh0.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfnf4rbz65-dxx9fxp4il.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hma1wa7u40-jd9uben2k1.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\kbha2291x4-khv3u5hwcm.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\cwdv3wg2z0-lcd1t2u6c8.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\amc6o8k9sw-c2oey78nd0.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lp3kwksugg-tdbxkamptv.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\5yjmbq4ivz-j5mq2jizvt.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ol22jr11s-06098lyss8.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lepdx7fqsb-nvvlpmu67g.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\v4mb6hl72a-s35ty4nyc5.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\psn8jr22sn-pj5nd1wqec.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\k5mmeg98ww-46ein0sx1k.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\703pyv8iwi-v0zj4ognzu.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lpd2gtd0ex-37tfw0ft22.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\0xgyewtjje-hrwsygsryq.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\4fx3fs0dwk-pk9g2wxc8p.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8d8lhhw9uq-ft3s53vfgj.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ug4ckenyaz-6cfz1n2cew.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\edi3ifk30h-6pdc2jztkx.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ns865ydr73-493y06b0oq.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\d57p1tl2hc-vr1egmr9el.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\aigwpmhvjr-kbrnm935zg.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tvtie56rbp-jj8uyg4cgr.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tqs29pwhfy-y7v9cxd14o.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\77f2qy0ew6-notf2xhcfb.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfhshz8pyq-h1s4sie4z3.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\rpldnob6c0-63fj8s7r0e.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\n9gabtbtih-0j3bgjxly4.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gcf8e45spz-47otxtyo56.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hw179y1ajm-4v8eqarkd7.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6xs9hw52r5-356vix0kms.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8a496mfrwt-83jwlth58m.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\jeytdjprwg-mrlpezrjn3.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\xii82oyxq5-lzl9nlhx6b.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\chtmperzc1-ag7o75518u.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ym08j9tix-x0q3zqp4vz.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3iqg5keuxi-0i3buxo5is.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ijgs26tqq4-o1o13a6vjx.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\fbsgj9ngwx-ttgo8qnofa.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\w73z5tge2x-2z0ns9nrw6.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\az9ig1lqsk-muycvpuwrr.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a60amwqsi4-87fc7y1x7t.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\pjydj5zbol-mlv21k5csn.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\h3cey4g9u1-0s9keapkgt.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2ib6p4u52p-0s9keapkgt.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyRep.22D4331E.Up2Date
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\refint\DailyReportApp.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.pdb
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\ref\DailyReportApp.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.runtime.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.endpoints.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.exe
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.deps.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.runtimeconfig.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.pdb
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.AssemblyReference.cache
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfoInputs.cache
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfo.cs
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.CoreCompileInputs.cache
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cache
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cs
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\bundle\DailyReportApp.styles.css
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\projectbundle\DailyReportApp.bundle.scp.css
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\16qvv427so-61n19gt1b8.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\zh2l6bvoh7-xtxxf3hu2r.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a9ulaa5swn-bqjiyaj88i.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z4sl4eouk0-c2jlpeoesf.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hcg3y53546-erw9l3u2r3.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nbs2dfqoo1-aexeepp0ev.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nr0l993rkl-d7shbmvgxk.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\mo3xsg2hdd-ausgxo2sd3.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2h2lmu6shq-k8d9w2qqmf.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3h4kmf6fyl-cosvhxvwiu.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\7wl2249pih-ub07r2b239.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z5sn2192e0-fvhpjtyr6v.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\x3ryf0sjef-b7pk76d08c.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\wldplf8m5z-fsbi9cje9m.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gyviqm9td0-rzd6atqjts.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\odu0k0381n-ee0r1s7dh0.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfnf4rbz65-dxx9fxp4il.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hma1wa7u40-jd9uben2k1.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\kbha2291x4-khv3u5hwcm.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3zmaqwbrat-r4e9w2rdcm.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\cwdv3wg2z0-lcd1t2u6c8.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\amc6o8k9sw-c2oey78nd0.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lp3kwksugg-tdbxkamptv.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\5yjmbq4ivz-j5mq2jizvt.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ol22jr11s-06098lyss8.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lepdx7fqsb-nvvlpmu67g.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\v4mb6hl72a-s35ty4nyc5.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\psn8jr22sn-pj5nd1wqec.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\k5mmeg98ww-46ein0sx1k.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\703pyv8iwi-v0zj4ognzu.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lpd2gtd0ex-37tfw0ft22.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\0xgyewtjje-hrwsygsryq.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\4fx3fs0dwk-pk9g2wxc8p.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8d8lhhw9uq-ft3s53vfgj.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ug4ckenyaz-6cfz1n2cew.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\edi3ifk30h-6pdc2jztkx.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ns865ydr73-493y06b0oq.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\1pfwsq8trg-iovd86k7lj.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\d57p1tl2hc-vr1egmr9el.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\aigwpmhvjr-kbrnm935zg.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tvtie56rbp-jj8uyg4cgr.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tqs29pwhfy-y7v9cxd14o.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\77f2qy0ew6-notf2xhcfb.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfhshz8pyq-h1s4sie4z3.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\rpldnob6c0-63fj8s7r0e.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\n9gabtbtih-0j3bgjxly4.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gcf8e45spz-47otxtyo56.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hw179y1ajm-4v8eqarkd7.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6xs9hw52r5-356vix0kms.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8a496mfrwt-83jwlth58m.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\jeytdjprwg-mrlpezrjn3.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\xii82oyxq5-lzl9nlhx6b.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\chtmperzc1-ag7o75518u.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ym08j9tix-x0q3zqp4vz.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3iqg5keuxi-0i3buxo5is.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ijgs26tqq4-o1o13a6vjx.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\fbsgj9ngwx-ttgo8qnofa.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\w73z5tge2x-2z0ns9nrw6.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\az9ig1lqsk-muycvpuwrr.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a60amwqsi4-87fc7y1x7t.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\pjydj5zbol-mlv21k5csn.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\h3cey4g9u1-0s9keapkgt.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2ib6p4u52p-0s9keapkgt.gz
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.DailyReportApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.DailyReportApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.build.DailyReportApp.props
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DailyReportApp.props
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DailyReportApp.props
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyRep.22D4331E.Up2Date
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\refint\DailyReportApp.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.pdb
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.genruntimeconfig.cache
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\ref\DailyReportApp.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3gu3a5djmb-5a09ghv6a5.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.Development.json
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.json
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.runtime.json
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.endpoints.json
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.exe
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.deps.json
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.runtimeconfig.json
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.pdb
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Core.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Identity.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Humanizer.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.ClientModel.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.CodeDom.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Memory.Data.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Text.Json.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.AssemblyReference.cache
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfoInputs.cache
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfo.cs
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.CoreCompileInputs.cache
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.MvcApplicationPartsAssemblyInfo.cache
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cache
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cs
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\bundle\DailyReportApp.styles.css
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\projectbundle\DailyReportApp.bundle.scp.css
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\16qvv427so-61n19gt1b8.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\zh2l6bvoh7-xtxxf3hu2r.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a9ulaa5swn-bqjiyaj88i.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z4sl4eouk0-c2jlpeoesf.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hcg3y53546-erw9l3u2r3.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nbs2dfqoo1-aexeepp0ev.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nr0l993rkl-d7shbmvgxk.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\mo3xsg2hdd-ausgxo2sd3.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2h2lmu6shq-k8d9w2qqmf.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3h4kmf6fyl-cosvhxvwiu.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\7wl2249pih-ub07r2b239.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z5sn2192e0-fvhpjtyr6v.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\x3ryf0sjef-b7pk76d08c.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\wldplf8m5z-fsbi9cje9m.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gyviqm9td0-rzd6atqjts.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\odu0k0381n-ee0r1s7dh0.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfnf4rbz65-dxx9fxp4il.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hma1wa7u40-jd9uben2k1.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\kbha2291x4-khv3u5hwcm.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3zmaqwbrat-smsxdkcs3q.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\cwdv3wg2z0-lcd1t2u6c8.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\amc6o8k9sw-c2oey78nd0.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lp3kwksugg-tdbxkamptv.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\5yjmbq4ivz-j5mq2jizvt.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ol22jr11s-06098lyss8.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lepdx7fqsb-nvvlpmu67g.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\v4mb6hl72a-s35ty4nyc5.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\psn8jr22sn-pj5nd1wqec.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\k5mmeg98ww-46ein0sx1k.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\703pyv8iwi-v0zj4ognzu.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lpd2gtd0ex-37tfw0ft22.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\0xgyewtjje-hrwsygsryq.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\4fx3fs0dwk-pk9g2wxc8p.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8d8lhhw9uq-ft3s53vfgj.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ug4ckenyaz-6cfz1n2cew.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\edi3ifk30h-6pdc2jztkx.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ns865ydr73-493y06b0oq.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\1pfwsq8trg-iovd86k7lj.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\d57p1tl2hc-vr1egmr9el.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\aigwpmhvjr-kbrnm935zg.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tvtie56rbp-jj8uyg4cgr.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tqs29pwhfy-y7v9cxd14o.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\77f2qy0ew6-notf2xhcfb.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfhshz8pyq-h1s4sie4z3.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\rpldnob6c0-63fj8s7r0e.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\n9gabtbtih-0j3bgjxly4.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gcf8e45spz-47otxtyo56.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hw179y1ajm-4v8eqarkd7.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6xs9hw52r5-356vix0kms.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8a496mfrwt-83jwlth58m.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\jeytdjprwg-mrlpezrjn3.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\xii82oyxq5-lzl9nlhx6b.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\chtmperzc1-ag7o75518u.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ym08j9tix-x0q3zqp4vz.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3iqg5keuxi-0i3buxo5is.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ijgs26tqq4-o1o13a6vjx.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\fbsgj9ngwx-ttgo8qnofa.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\w73z5tge2x-2z0ns9nrw6.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\az9ig1lqsk-muycvpuwrr.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a60amwqsi4-87fc7y1x7t.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\pjydj5zbol-mlv21k5csn.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\h3cey4g9u1-0s9keapkgt.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2ib6p4u52p-0s9keapkgt.gz
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.development.json
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyRep.22D4331E.Up2Date
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\refint\DailyReportApp.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.pdb
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.genruntimeconfig.cache
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\ref\DailyReportApp.dll
+D:\program\New folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3gu3a5djmb-c6dma9q6g7.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.json
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.exe
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.deps.json
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.runtimeconfig.json
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.pdb
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\bundle\DailyReportApp.styles.css
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\projectbundle\DailyReportApp.bundle.scp.css
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\16qvv427so-61n19gt1b8.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\zh2l6bvoh7-xtxxf3hu2r.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a9ulaa5swn-bqjiyaj88i.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z4sl4eouk0-c2jlpeoesf.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hcg3y53546-erw9l3u2r3.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nbs2dfqoo1-aexeepp0ev.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nr0l993rkl-d7shbmvgxk.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\mo3xsg2hdd-ausgxo2sd3.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2h2lmu6shq-k8d9w2qqmf.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3h4kmf6fyl-cosvhxvwiu.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\7wl2249pih-ub07r2b239.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z5sn2192e0-fvhpjtyr6v.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\x3ryf0sjef-b7pk76d08c.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\wldplf8m5z-fsbi9cje9m.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gyviqm9td0-rzd6atqjts.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\odu0k0381n-ee0r1s7dh0.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfnf4rbz65-dxx9fxp4il.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hma1wa7u40-jd9uben2k1.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\kbha2291x4-khv3u5hwcm.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3zmaqwbrat-smsxdkcs3q.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\cwdv3wg2z0-lcd1t2u6c8.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\amc6o8k9sw-c2oey78nd0.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lp3kwksugg-tdbxkamptv.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\5yjmbq4ivz-j5mq2jizvt.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ol22jr11s-06098lyss8.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lepdx7fqsb-nvvlpmu67g.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\v4mb6hl72a-s35ty4nyc5.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\psn8jr22sn-pj5nd1wqec.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\k5mmeg98ww-46ein0sx1k.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\703pyv8iwi-v0zj4ognzu.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lpd2gtd0ex-37tfw0ft22.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\0xgyewtjje-hrwsygsryq.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\4fx3fs0dwk-pk9g2wxc8p.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8d8lhhw9uq-ft3s53vfgj.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ug4ckenyaz-6cfz1n2cew.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\edi3ifk30h-6pdc2jztkx.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ns865ydr73-493y06b0oq.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\1pfwsq8trg-iovd86k7lj.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\d57p1tl2hc-vr1egmr9el.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\aigwpmhvjr-kbrnm935zg.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tvtie56rbp-jj8uyg4cgr.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tqs29pwhfy-y7v9cxd14o.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\77f2qy0ew6-notf2xhcfb.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfhshz8pyq-h1s4sie4z3.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\rpldnob6c0-63fj8s7r0e.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\n9gabtbtih-0j3bgjxly4.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gcf8e45spz-47otxtyo56.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hw179y1ajm-4v8eqarkd7.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6xs9hw52r5-356vix0kms.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8a496mfrwt-83jwlth58m.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\jeytdjprwg-mrlpezrjn3.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\xii82oyxq5-lzl9nlhx6b.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\chtmperzc1-ag7o75518u.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ym08j9tix-x0q3zqp4vz.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3iqg5keuxi-0i3buxo5is.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ijgs26tqq4-o1o13a6vjx.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\fbsgj9ngwx-ttgo8qnofa.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\w73z5tge2x-2z0ns9nrw6.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\az9ig1lqsk-muycvpuwrr.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a60amwqsi4-87fc7y1x7t.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\pjydj5zbol-mlv21k5csn.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\h3cey4g9u1-0s9keapkgt.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2ib6p4u52p-0s9keapkgt.gz
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyRep.22D4331E.Up2Date
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\refint\DailyReportApp.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.pdb
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\ref\DailyReportApp.dll
+C:\Users\DELL\Desktop\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3gu3a5djmb-95yfisj64i.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3zmaqwbrat-smsxdkcs3q.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3gu3a5djmb-teza24sagw.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3h4kmf6fyl-y9sh8eyglq.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\7wl2249pih-qneiqr3n2b.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z5sn2192e0-h6fw1373rs.gz
+C:\Users\DELL\Desktop\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\1pfwsq8trg-iam5t4yi0o.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.json
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.endpoints.json
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.runtime.json
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.exe
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.deps.json
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.runtimeconfig.json
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.pdb
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfo.cs
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\bundle\DailyReportApp.styles.css
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\projectbundle\DailyReportApp.bundle.scp.css
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3gu3a5djmb-teza24sagw.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\16qvv427so-61n19gt1b8.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\zh2l6bvoh7-xtxxf3hu2r.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a9ulaa5swn-bqjiyaj88i.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z4sl4eouk0-c2jlpeoesf.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hcg3y53546-erw9l3u2r3.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nbs2dfqoo1-aexeepp0ev.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nr0l993rkl-d7shbmvgxk.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\mo3xsg2hdd-ausgxo2sd3.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2h2lmu6shq-k8d9w2qqmf.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3h4kmf6fyl-y9sh8eyglq.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\7wl2249pih-qneiqr3n2b.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z5sn2192e0-h6fw1373rs.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\x3ryf0sjef-b7pk76d08c.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\wldplf8m5z-fsbi9cje9m.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gyviqm9td0-rzd6atqjts.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\odu0k0381n-ee0r1s7dh0.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfnf4rbz65-dxx9fxp4il.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hma1wa7u40-jd9uben2k1.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\kbha2291x4-khv3u5hwcm.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3zmaqwbrat-smsxdkcs3q.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\cwdv3wg2z0-lcd1t2u6c8.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\amc6o8k9sw-c2oey78nd0.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lp3kwksugg-tdbxkamptv.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\5yjmbq4ivz-j5mq2jizvt.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ol22jr11s-06098lyss8.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lepdx7fqsb-nvvlpmu67g.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\v4mb6hl72a-s35ty4nyc5.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\psn8jr22sn-pj5nd1wqec.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\k5mmeg98ww-46ein0sx1k.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\703pyv8iwi-v0zj4ognzu.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lpd2gtd0ex-37tfw0ft22.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\0xgyewtjje-hrwsygsryq.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\4fx3fs0dwk-pk9g2wxc8p.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8d8lhhw9uq-ft3s53vfgj.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ug4ckenyaz-6cfz1n2cew.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\edi3ifk30h-6pdc2jztkx.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ns865ydr73-493y06b0oq.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\1pfwsq8trg-iam5t4yi0o.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\d57p1tl2hc-vr1egmr9el.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\aigwpmhvjr-kbrnm935zg.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tvtie56rbp-jj8uyg4cgr.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tqs29pwhfy-y7v9cxd14o.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\77f2qy0ew6-notf2xhcfb.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfhshz8pyq-h1s4sie4z3.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\rpldnob6c0-63fj8s7r0e.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\n9gabtbtih-0j3bgjxly4.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gcf8e45spz-47otxtyo56.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hw179y1ajm-4v8eqarkd7.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6xs9hw52r5-356vix0kms.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8a496mfrwt-83jwlth58m.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\jeytdjprwg-mrlpezrjn3.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\xii82oyxq5-lzl9nlhx6b.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\chtmperzc1-ag7o75518u.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ym08j9tix-x0q3zqp4vz.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3iqg5keuxi-0i3buxo5is.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ijgs26tqq4-o1o13a6vjx.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\fbsgj9ngwx-ttgo8qnofa.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\w73z5tge2x-2z0ns9nrw6.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\az9ig1lqsk-muycvpuwrr.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a60amwqsi4-87fc7y1x7t.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\pjydj5zbol-mlv21k5csn.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\h3cey4g9u1-0s9keapkgt.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2ib6p4u52p-0s9keapkgt.gz
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyRep.22D4331E.Up2Date
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\refint\DailyReportApp.dll
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.pdb
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.genruntimeconfig.cache
+C:\Users\DELL\Documents\new folder\DailyReportApp\DailyReportApp\obj\Debug\net9.0\ref\DailyReportApp.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\appsettings.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.runtime.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.staticwebassets.endpoints.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.exe
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.deps.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.runtimeconfig.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\DailyReportApp.pdb
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Humanizer.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.AssemblyReference.cache
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfoInputs.cache
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.AssemblyInfo.cs
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.csproj.CoreCompileInputs.cache
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cache
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.RazorAssemblyInfo.cs
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\bundle\DailyReportApp.styles.css
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\scopedcss\projectbundle\DailyReportApp.bundle.scp.css
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3gu3a5djmb-teza24sagw.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\16qvv427so-61n19gt1b8.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\zh2l6bvoh7-xtxxf3hu2r.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a9ulaa5swn-bqjiyaj88i.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z4sl4eouk0-c2jlpeoesf.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hcg3y53546-erw9l3u2r3.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nbs2dfqoo1-aexeepp0ev.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\nr0l993rkl-d7shbmvgxk.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\mo3xsg2hdd-ausgxo2sd3.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2h2lmu6shq-k8d9w2qqmf.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3h4kmf6fyl-y9sh8eyglq.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\7wl2249pih-qneiqr3n2b.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\z5sn2192e0-h6fw1373rs.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\x3ryf0sjef-b7pk76d08c.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\wldplf8m5z-fsbi9cje9m.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gyviqm9td0-rzd6atqjts.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\odu0k0381n-ee0r1s7dh0.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfnf4rbz65-dxx9fxp4il.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hma1wa7u40-jd9uben2k1.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\kbha2291x4-khv3u5hwcm.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3zmaqwbrat-smsxdkcs3q.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\cwdv3wg2z0-lcd1t2u6c8.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\amc6o8k9sw-c2oey78nd0.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lp3kwksugg-tdbxkamptv.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\5yjmbq4ivz-j5mq2jizvt.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ol22jr11s-06098lyss8.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lepdx7fqsb-nvvlpmu67g.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\v4mb6hl72a-s35ty4nyc5.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\psn8jr22sn-pj5nd1wqec.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\k5mmeg98ww-46ein0sx1k.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\703pyv8iwi-v0zj4ognzu.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\lpd2gtd0ex-37tfw0ft22.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\0xgyewtjje-hrwsygsryq.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\4fx3fs0dwk-pk9g2wxc8p.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8d8lhhw9uq-ft3s53vfgj.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ug4ckenyaz-6cfz1n2cew.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\edi3ifk30h-6pdc2jztkx.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ns865ydr73-493y06b0oq.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\1pfwsq8trg-iam5t4yi0o.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\d57p1tl2hc-vr1egmr9el.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\aigwpmhvjr-kbrnm935zg.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tvtie56rbp-jj8uyg4cgr.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\tqs29pwhfy-y7v9cxd14o.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\77f2qy0ew6-notf2xhcfb.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gfhshz8pyq-h1s4sie4z3.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\rpldnob6c0-63fj8s7r0e.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\n9gabtbtih-0j3bgjxly4.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\gcf8e45spz-47otxtyo56.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\hw179y1ajm-4v8eqarkd7.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6xs9hw52r5-356vix0kms.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\8a496mfrwt-83jwlth58m.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\jeytdjprwg-mrlpezrjn3.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\xii82oyxq5-lzl9nlhx6b.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\chtmperzc1-ag7o75518u.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\6ym08j9tix-x0q3zqp4vz.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\3iqg5keuxi-0i3buxo5is.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\ijgs26tqq4-o1o13a6vjx.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\fbsgj9ngwx-ttgo8qnofa.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\w73z5tge2x-2z0ns9nrw6.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\az9ig1lqsk-muycvpuwrr.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\a60amwqsi4-87fc7y1x7t.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\pjydj5zbol-mlv21k5csn.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\h3cey4g9u1-0s9keapkgt.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\compressed\2ib6p4u52p-0s9keapkgt.gz
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.DailyReportApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.DailyReportApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.build.DailyReportApp.props
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DailyReportApp.props
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DailyReportApp.props
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyRep.22D4331E.Up2Date
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\refint\DailyReportApp.dll
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.pdb
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\DailyReportApp.genruntimeconfig.cache
+C:\Users\drmohammed\Desktop\Aldyaa-DailyReportApp\DailyReportApp\obj\Debug\net9.0\ref\DailyReportApp.dll
