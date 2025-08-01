@@ -1,0 +1,216 @@
+﻿@model StudentRegistration.Models.Student
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <div class="container main-content">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                
+                <h2 class="text-center mb-4 p-4 "> <b>استمارة تقديم</b> </h2>
+
+                <!-- Progress bar -->
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 33%;" aria-valuenow="33"
+                         aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <form asp-action="Index" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+                      <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                    <!-- Panel 1: Login Information -->
+                    <div id="panel1" class="form-panel active">
+                        <h2 class="form-header">معلومات التسجيل</h2>
+                        <div class="text-center mb-4">
+                            <div class="profile-pic-container">
+                                <img id="profile-pic" src="@(Model?.ProfilePicturePath ?? "/images/default-profile.png")"
+                                     class="rounded-circle" style="width:150px;height:150px;object-fit:cover;">
+                                <div class="upload-btn">
+                                    <input asp-for="ProfileImageFile" type="file" accept="image/*"
+                                           class="form-control d-none" id="profile-upload">
+                                    <label for="profile-upload" class="btn btn-sm btn-secondary mt-2">
+                                        <i class="fas fa-camera"></i> Upload Image
+                                    </label>
+                                    <span asp-validation-for="ProfileImageFile" class="text-danger d-block"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <input asp-for="FullName" type="text" class="form-control"
+                                   placeholder="اسم الطالب كما في شهادة الميلاد" required>
+                            <span asp-validation-for="FullName" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <input asp-for="StudentId" type="text" class="form-control" placeholder="الرقم القومى" required>
+                            <span asp-validation-for="StudentId" class="text-danger"></span>
+                        </div>
+                        <div class="text-center">
+                            <button type="button" class="btn btn-primary btn-next" onclick="nextPanel(1)">
+                                Next >>
+                            </button>
+                        </div>
+                    </div>
+            
+                    <!-- Panel 2: Personal Information -->
+                    <div id="panel2" class="form-panel">
+                        <h2 class="form-header">بيانات الطالب</h2>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <input asp-for="BirthDate" type="date" class="form-control" placeholder="تاريخ الميلاد"
+                                       onfocus="this.type='date'" onblur="if(!this.value)this.type='text'">
+                                <span asp-validation-for="BirthDate" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-md-6">
+                                <select asp-for="Gender" class="form-control">
+                                    <option value="" disabled selected hidden>نوع الطالب</option>
+                                    <option value="male">ذكر</option>
+                                    <option value="female">انثى</option>
+                                </select>
+                                <span asp-validation-for="Gender" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <input asp-for="Address" type="text" class="form-control" placeholder="العنوان">
+                        <span asp-validation-for="Address" class="text-danger"></span>
+
+                        <select asp-for="Nationality" class="form-control mb-3">
+                            <option value="" disabled selected hidden>الجنسيه</option>
+                            <option value="مصرى">مصرى</option>
+                            <option value="مغربى">مغربى</option>
+                            <option value="سورى">سورى</option>
+                            <option value="يمنى">يمنى</option>
+                            <option value="سودانى">سودانى</option>
+                            <option value="اثيوبى">اثيوبى</option>
+                            <option value="ليبى">ليبى</option>
+                            <option value="تونسى">تونسى</option>
+                            <option value="سعودى">سعودى</option>
+                        </select>
+                        <span asp-validation-for="Nationality" class="text-danger"></span>
+
+                        <select asp-for="Religion" class="form-control mb-3">
+                            <option value="" disabled selected hidden>الديانه</option>
+                            <option value="مسلم">مسلم</option>
+                            <option value="مسيحى">مسيحى</option>
+                        </select>
+                        <span asp-validation-for="Religion" class="text-danger"></span>
+
+                        <input asp-for="ParentEmail" type="text" class="form-control" placeholder="ايميل ولى الامر">
+                        <input asp-for="FatherName" type="text" class="form-control" placeholder="اسم ولى الأمر">
+                        <input asp-for="FatherJob" type="text" class="form-control" placeholder=" وظيفته الاب">
+                        <input asp-for="FatherCertificate" type="text" class="form-control" placeholder="مؤهل الاب التعليمى">
+                        <input asp-for="FatherTelephone" type="text" class="form-control" placeholder="تليفون ولى الامر">
+                        <input asp-for="FatherId" type="text" class="form-control" placeholder="الرقم القومى للاب">
+                        <input asp-for="MotherName" type="text" class="form-control" placeholder="اسم الام">
+                        <input asp-for="MotherJob" type="text" class="form-control" placeholder=" وظيفته الام">
+                        <input asp-for="MotherQualification" type="text" class="form-control" placeholder="مؤهل الام التعليمى">
+                        <input asp-for="MotherTelephone" type="text" class="form-control" placeholder="تليفون الام">
+                        <input asp-for="MotherNationalId" type="text" class="form-control" placeholder="الرقم القومى للام">
+                        <div class="text-center">
+                            <button type="button" class="btn btn-secondary btn-previous" onclick="prevPanel(2)">
+                                << Back
+                            </button>
+                            <button type="button" class="btn btn-primary btn-next" onclick="nextPanel(2)">
+                                Next >>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Panel 3: Academic Information -->
+                    <div id="panel3" class="form-panel">
+                        <h2 class="form-header">بيانات تعليميه</h2>
+                        <input asp-for="PreviousSchool" type="text" class="form-control" placeholder="المدرسه المنقول منها">
+                        <select asp-for="StudyLanguage" class="form-control">
+                            <option value="" disabled selected hidden>القسم المتقدم اليه</option>
+                            <option value="عربى">عربى</option>
+                            <option value="لغات">لغات</option>
+                        </select>
+                        <span asp-validation-for="StudyLanguage" class="text-danger"></span>
+
+                        <select asp-for="EducationalStage" class="form-control mb-3">
+                            <option value="" disabled selected hidden>المرحله المقدم اليها</option>
+                            <option value="kg">kg</option>
+                            <option value="ابتدائى">ابتدائى</option>
+                            <option value="اعدادى">اعدادى</option>
+                            <option value="ثانوى">ثانوى</option>
+                        </select>
+                        <span asp-validation-for="EducationalStage" class="text-danger"></span>
+
+                        <select asp-for="GradeLevel" class="form-control mb-3">
+                            <option value="" disabled selected hidden>الصف الدراسى</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                        </select>
+                        <span asp-validation-for="GradeLevel" class="text-danger"></span>
+
+                        <input asp-for="Governorate" type="text" class="form-control" placeholder="الاداره التعليميه">
+                        <select asp-for="SecondLanguage" class="form-control mb-3">
+                            <option value="" disabled selected hidden> اللغه الثانيه</option>
+                            <option value="اللغه الانجليزيه">اللغه الانجليزيه</option>
+                            <option value="اللغه الفرنسيه">اللغه الفرنسيه</option>
+                            <option value="اللغه الايطاليه">اللغه الايطاليه</option>
+                            <option value="اللغه الالمانيه">اللغه الالمانيه</option>
+                            <option value="اللغه الاسبانيه">اللغه الاسبانيه</option>
+                        </select>
+                        <input asp-for="FirstSiblingName" type="text" class="form-control" placeholder=" اسم الاخ/الاخت الاول المقيد بالمدرسه">
+                        <input asp-for="FirstSiblingGrade" type="text" class="form-control" placeholder=" الصف المقيد فيه">
+                        <input asp-for="SecondSiblingName" type="text" class="form-control" placeholder=" اسم الاخ/الاخت الثانى المقيد بالمدرسه">
+                        <input asp-for="SecondSiblingGrade" type="text" class="form-control" placeholder=" الصف المقيد فيه">
+                        <input asp-for="ThirdSiblingName" type="text" class="form-control" placeholder=" اسم الاخ/الاخت الثالث المقيد بالمدرسه">
+                        <input asp-for="ThirdSiblingGrade" type="text" class="form-control" placeholder=" الصف المقيد فيه">
+                        <select asp-for="GuardianName" class="form-control mb-3">
+                            <option value="" disabled selected hidden> الولايه التعليميه فى حالة غياب الاب</option>
+                            <option value="الام">الام</option>
+                            <option value="الجد">الجد</option>
+                            <option value="العم">العم</option>
+                            <option value="العمه">العمه</option>
+                            <option value="الخال">الخال</option>
+                            <option value="الخاله">الخاله</option>
+                            <option value="الاب">الاب</option>
+                        </select>
+                        <select asp-for="AbsenceReason" class="form-control mb-3">
+                            <option value="" disabled selected hidden> سبب الولايه التعليميه</option>
+                            <option value="الطلاق">الطلاق</option>
+                            <option value="الوفاه">الوفاه</option>
+                            <option value="السفر الدائم">السفر الدائم</option>
+                            <option value="لا يوجد">لا يوجد</option>
+                        </select>
+                        <div class="text-center">
+                            <button type="button" class="btn btn-secondary btn-previous" onclick="prevPanel(3)">
+                                << Back
+                            </button>
+                            <button type="submit" class="btn btn-success btn-submit">Submit</button>
+                        </div>
+                    </div>
+
+                </form>
+           
+        </div>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Preview image before upload
+        document.getElementById('profile-upload').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            const preview = document.getElementById('profile-pic');
+
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    preview.src = e.target.result;
+                }
+                reader.readAsDataURL(file);
+            } else {
+                preview.src = '/images/default-profile.png';
+            }
+        });
+    </script>
+}

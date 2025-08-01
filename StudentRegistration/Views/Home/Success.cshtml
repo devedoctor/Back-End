@@ -1,0 +1,27 @@
+﻿@model StudentRegistration.Models.Student
+@{
+    ViewData["Title"] = "Submission Successful";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4 mb-5">
+    <div class="text-center" >
+        <h1 class="display-4 text-success">✔ Submission Successful !</h1>
+        <h1 class="display-4 text-success"><b>تم التسجيل بنجاح</b></h1>
+        <p class="text-danger-emphasis"><b>مرحبا بكم في صرح مودرن سكول التعليمى لقد اخترتم طريق التميز </b></p>
+        <div class="mt-4">
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary"> <b>Edit your data</b></a>
+           @* <a asp-action="List" class="btn btn-secondary">View All Registrations</a>*@
+            <hr>
+            <br>
+            <h5 class="text-success"><b>اطبع استمارة التقديم</b></h5>
+            <br>
+            <img src="~/images/print.png" alt="Print Report" style="cursor:pointer; width:150px">
+        </div>
+        <hr>
+        <a href="#" target="_blank" class="btn btn-success"><b>Return to School</b></a>
+    </div>
+</div>
+
+<!-- Add this at the bottom -->
+<partial name="_PrintStudentData" model="Model" />

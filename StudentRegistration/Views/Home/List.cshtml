@@ -1,0 +1,44 @@
+﻿@model IEnumerable<StudentRegistration.Models.Student>
+
+@{
+    ViewData["Title"] = "قائمة الطلاب المسجلين";
+}
+
+<div class="container mt-4 min-vh-100">
+    <h1>قائمة الطلاب المسجلين</h1>
+<div class="table-responsive">
+ <table class="table table-striped">
+    <thead>
+        <tr>
+            <th>الصورة</th>
+            <th>الاسم</th>
+            <th>الرقم القومي</th>
+            <th>الصف</th>
+            <th>تاريخ التسجيل</th>
+            <th>إجراءات</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.ProfilePicturePath))
+                    {
+                        <img src="@item.ProfilePicturePath" alt="صورة الطالب" style="width:50px; height:50px; border-radius:50%;" />
+                    }
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.FullName)</td>
+                <td>@Html.DisplayFor(modelItem => item.StudentId)</td>
+                <td>@Html.DisplayFor(modelItem => item.GradeLevel)</td>
+                <td>@Html.DisplayFor(modelItem => item.RegistrationDate)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-primary">تعديل</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">حذف</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+ </table>
+</div>
+<div/>

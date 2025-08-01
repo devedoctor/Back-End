@@ -1,0 +1,43 @@
+﻿@model StudentRegistration.Models.Student
+
+<script src="~/js/printReport.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        setupPrintReport({
+            profilePicture: '@Url.Content(Model?.ProfilePicturePath ?? "")',
+            fullName: '@Html.Raw(Model?.FullName?.Replace("'", "\\'"))',
+            studentId: '@Model?.StudentId',
+            birthDate: '@(Model?.BirthDate?.ToString("dd/MM/yyyy") ?? "")',
+            gender: '@Model?.Gender',
+            address: '@Html.Raw(Model?.Address?.Replace("'", "\\'"))',
+            nationality: '@Model?.Nationality',
+            religion: '@Model?.Religion',
+            parentEmail: '@Model?.ParentEmail',
+            fatherName: '@Html.Raw(Model?.FatherName?.Replace("'", "\\'"))',
+            fatherJob: '@Html.Raw(Model?.FatherJob?.Replace("'", "\\'"))',
+            fatherCertificate: '@Html.Raw(Model?.FatherCertificate?.Replace("'", "\\'"))',
+            fatherTelephone: '@Model?.FatherTelephone',
+            fatherId: '@Model?.FatherId',
+            motherName: '@Html.Raw(Model?.MotherName?.Replace("'", "\\'"))',
+            motherJob: '@Html.Raw(Model?.MotherJob?.Replace("'", "\\'"))',
+            motherQualification: '@Html.Raw(Model?.MotherQualification?.Replace("'", "\\'"))',
+            motherTelephone: '@Model?.MotherTelephone',
+            motherNationalId: '@Model?.MotherNationalId',
+            previousSchool: '@Html.Raw(Model?.PreviousSchool?.Replace("'", "\\'"))',
+            studyLanguage: '@Model?.StudyLanguage',
+            educationalStage: '@Model?.EducationalStage',
+            gradeLevel: '@Model?.GradeLevel',
+            governorate: '@Model?.Governorate',
+            secondLanguage: '@Model?.SecondLanguage',
+            firstSiblingName: '@Html.Raw(Model?.FirstSiblingName?.Replace("'", "\\'"))',
+            firstSiblingGrade: '@Model?.FirstSiblingGrade',
+            secondSiblingName: '@Html.Raw(Model?.SecondSiblingName?.Replace("'", "\\'"))',
+            secondSiblingGrade: '@Model?.SecondSiblingGrade',
+            thirdSiblingName: '@Html.Raw(Model?.ThirdSiblingName?.Replace("'", "\\'"))',
+            thirdSiblingGrade: '@Model?.ThirdSiblingGrade',
+            guardianName: '@Model?.GuardianName',
+            absenceReason: '@Model?.AbsenceReason'
+           
+        });
+    });
+</script>
