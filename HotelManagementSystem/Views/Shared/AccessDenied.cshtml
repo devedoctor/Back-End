@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Access Denied";
+    Layout = "_Layout";
+}
+
+<div class="container-fluid access-denied-banner">
+    <div class="container py-5 text-center">
+        <h1 class="display-4 text-white"><i class="fas fa-ban"></i> Access Denied</h1>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-8">
+            <div class="card shadow">
+                <div class="card-header bg-danger text-white">
+                    <h4><i class="fas fa-exclamation-triangle"></i> Permission Required</h4>
+                </div>
+                <div class="card-body text-center">
+                    <div class="access-denied-icon mb-4">
+                        <i class="fas fa-lock fa-5x text-danger"></i>
+                    </div>
+                    <h3>You don't have permission to access this page</h3>
+                    <p class="lead">Please contact your administrator if you believe this is an error.</p>
+
+                    <div class="mt-4">
+                        <a asp-controller="Home" asp-action="Index" class="btn btn-primary mr-3">
+                            <i class="fas fa-home"></i> Return to Home
+                        </a>
+
+                        @if (Context.Session.GetString("Username") != null)
+                        {
+                            <a asp-controller="Account" asp-action="Logout" class="btn btn-secondary">
+                                <i class="fas fa-sign-out-alt"></i> Logout
+                            </a>
+                        }
+                        else
+                        {
+                            <a asp-controller="Account" asp-action="Login" class="btn btn-success">
+                                <i class="fas fa-sign-in-alt"></i> Login
+                            </a>
+                        }
+                        <a href="mailto:admin@hotel.com" class="btn btn-info mt-2">
+                            <i class="fas fa-envelope"></i> Contact Administrator
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        .access-denied-banner {
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/images/bg-access-denied.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+
+        .access-denied-icon {
+            animation: bounce 2s infinite;
+        }
+
+        @@keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+
+            40% {
+                transform: translateY(-20px);
+            }
+
+            60% {
+                transform: translateY(-10px);
+            }
+        }
+    </style>
+}

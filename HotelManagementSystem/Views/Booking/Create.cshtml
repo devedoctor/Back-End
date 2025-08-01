@@ -1,0 +1,82 @@
+﻿@model HotelManagementSystem.Models.Booking
+
+@{
+    ViewData["Title"] = "Create Booking";
+    var guests = ViewBag.Guests as List<Guest>;
+    var rooms = ViewBag.Rooms as List<Room>;
+}
+
+<div class="container-fluid booking-banner mb-4">
+    <div class="container py-5">
+        <h1 class="display-4 text-white">New Booking</h1>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4>Booking Information</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create" >
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group">
+                            <label asp-for="GuestId" class="control-label">Guest</label>
+                            <select asp-for="GuestId" class="form-control">
+                                <option value="">-- Select Guest --</option>
+                                @foreach (var guest in guests)
+                                {
+                                    <option value="@guest.GuestId">@guest.FullName (@guest.Email)</option>
+                                }
+                            </select>
+                            <span asp-validation-for="GuestId" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="RoomId" class="control-label">Room</label>
+                            <select asp-for="RoomId" class="form-control">
+                                <option value="">-- Select Room --</option>
+                                @foreach (var room in rooms)
+                                {
+                                    <option value="@room.RoomId">@room.RoomType - @room.RoomNumber ($@room.PricePerNight/night)</option>
+                                }
+                            </select>
+                            <span asp-validation-for="RoomId" class="text-danger"></span>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="CheckInDate" class="control-label"></label>
+                                    <input asp-for="CheckInDate" class="form-control" />
+                                    <span asp-validation-for="CheckInDate" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="CheckOutDate" class="control-label"></label>
+                                    <input asp-for="CheckOutDate" class="form-control" />
+                                    <span asp-validation-for="CheckOutDate" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="SpecialRequests" class="control-label"></label>
+                            <textarea asp-for="SpecialRequests" class="form-control" rows="3"></textarea>
+                            <span asp-validation-for="SpecialRequests" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group text-center">
+                            <input type="submit" value="Create Booking" class="btn btn-primary btn-lg" />
+                            <a asp-action="Index" class="btn btn-secondary btn-lg">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

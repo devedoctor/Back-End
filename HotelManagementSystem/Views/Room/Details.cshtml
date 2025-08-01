@@ -1,0 +1,106 @@
+﻿@model HotelManagementSystem.Models.Room
+
+@{
+    ViewData["Title"] = "Room Details";
+}
+
+<div class="container-fluid room-banner mb-4">
+    <div class="container py-5">
+        <h1 class="display-4 text-white">Room Details</h1>
+    </div>
+</div>
+
+<div class="container">
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h4>@Model.RoomType Room - @Model.RoomNumber</h4>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="room-detail-image mb-4" style="background-image: url('/images/rooms/@(Model.RoomType.ToLower()).jpg');"></div>
+                </div>
+                <div class="col-md-6">
+                    <dl class="row">
+                        <dt class="col-sm-4">Room Number:</dt>
+                        <dd class="col-sm-8">@Model.RoomNumber</dd>
+
+                        <dt class="col-sm-4">Room Type:</dt>
+                        <dd class="col-sm-8">@Model.RoomType</dd>
+
+                        <dt class="col-sm-4">Price Per Night:</dt>
+                        <dd class="col-sm-8">@Model.PricePerNight.ToString("C")</dd>
+
+                        <dt class="col-sm-4">Availability:</dt>
+                        <dd class="col-sm-8">
+                            @if (Model.IsAvailable)
+                            {
+                                <span class="badge badge-success">Available</span>
+                            }
+                            else
+                            {
+                                <span class="badge badge-danger">Occupied</span>
+                            }
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+
+            @if (!string.IsNullOrEmpty(Model.Description))
+            {
+                <div class="mt-4">
+                    <h5>Description</h5>
+                    <p>@Model.Description</p>
+                </div>
+            }
+
+            <div class="mt-4">
+                <a asp-action="Edit" asp-route-id="@Model.RoomId" class="btn btn-warning">
+                    <i class="fas fa-edit"></i> Edit
+                </a>
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="fas fa-arrow-left"></i> Back to List
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Current Bookings Section -->
+    @if (Model.Bookings?.Any(b => b.CheckOutDate >= DateTime.Today) == true)
+    {
+        <div class="card shadow mt-4">
+            <div class="card-header bg-info text-white">
+                <h5>Current and Upcoming Bookings</h5>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Guest</th>
+                                <th>Check-In</th>
+                                <th>Check-Out</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var booking in Model.Bookings.Where(b => b.CheckOutDate >= DateTime.Today).OrderBy(b => b.CheckInDate))
+                            {
+                                <tr>
+                                    <td>@booking.Guest?.FullName</td>
+                                    <td>@booking.CheckInDate.ToShortDateString()</td>
+                                    <td>@booking.CheckOutDate.ToShortDateString()</td>
+                                    <td>
+                                        <span class="badge @(booking.BookingStatus == "Confirmed" ? "badge-success" : "badge-primary")">
+                                            @booking.BookingStatus
+                                        </span>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<HotelManagementSystem.Models.Room>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="hero-section">
+    <div class="hero-content text-center text-white">
+        <h1 class="display-4">Welcome to Our Luxury Hotel</h1>
+        <p class="lead">Experience world-class service and comfort</p>
+        <a asp-controller="Booking" asp-action="Create" class="btn btn-primary btn-lg">Book Now</a>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Available Rooms</h2>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card room-card">
+                    <div class="card-img-top room-image"
+                         style="background-image: url('/images/rooms/@(item.RoomType.ToLower()).jpg');"></div>
+                    <div class="card-body">
+                        <h5 class="card-title">@item.RoomType Room - @item.RoomNumber</h5>
+                        <p class="card-text">@item.Description</p>
+                        <p class="card-text"><strong>$@item.PricePerNight</strong> per night</p>
+                        <a asp-controller="Booking" asp-action="Create" asp-route-roomId="@item.RoomId" class="btn btn-primary">Book Now</a>
+                        <a asp-controller="Room" asp-action="Details" asp-route-id="@item.RoomId" class="btn btn-outline-secondary">Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="container-fluid bg-dark text-white py-5 mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h3><i class="fas fa-hotel"></i> Our Hotel</h3>
+                <p>Providing luxury accommodations with world-class amenities for over 20 years.</p>
+            </div>
+            <div class="col-md-4">
+                <h3><i class="fas fa-map-marker-alt"></i> Location</h3>
+                <p>123 Luxury Street, Downtown, City, Country</p>
+            </div>
+            <div class="col-md-4">
+                <h3><i class="fas fa-phone"></i> Contact</h3>
+                <p>Phone: +1 234 567 8900</p>
+                <p>Email: info@luxuryhotel.com</p>
+            </div>
+        </div>
+    </div>
+</div>

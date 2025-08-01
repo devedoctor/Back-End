@@ -1,0 +1,91 @@
+﻿@model IEnumerable<HotelManagementSystem.Models.Booking>
+
+@{
+    ViewData["Title"] = "Bookings";
+}
+
+<div class="container-fluid booking-banner mb-4">
+    <div class="container py-5">
+        <h1 class="display-4 text-white">Booking Management</h1>
+    </div>
+</div>
+
+<div class="container">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>All Bookings</h2>
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="fas fa-plus"></i> New Booking
+        </a>
+    </div>
+
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <div class="row">
+                <div class="col-md-6">
+                    <h4 class="m-0">Current Bookings</h4>
+                </div>
+                <div class="col-md-6">
+                    <form asp-action="Index" method="get" class="form-inline float-right">
+                        <div class="input-group">
+                            <input type="text" name="searchString" class="form-control" placeholder="Search bookings..." />
+                            <div class="input-group-append">
+                                <button type="submit" class="btn btn-outline-light">
+                                    <i class="fas fa-search"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Guest</th>
+                            <th>Room</th>
+                            <th>Check-In</th>
+                            <th>Check-Out</th>
+                            <th>Status</th>
+                            <th>Amount</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Guest?.FullName</td>
+                                <td>@item.Room?.RoomNumber (@item.Room?.RoomType)</td>
+                                <td>@item.CheckInDate.ToShortDateString()</td>
+                                <td>@item.CheckOutDate.ToShortDateString()</td>
+                                <td>
+                                    <span class="badge @(item.BookingStatus == "Confirmed" ? "badge-success" :
+                                                                                            item.BookingStatus == "Completed" ? "badge-info" : "badge-warning")">
+                                    @item.BookingStatus
+                                </span>
+                            </td>
+                            <td>@item.TotalAmount.ToString("C")</td>
+                            <td>
+                                <a asp-action="Details" asp-route-id="@item.BookingId" class="btn btn-info btn-sm">
+                                    <i class="fas fa-eye"></i> Details
+                                </a>
+                                @if (item.BookingStatus == "Confirmed")
+                                    {
+                                        <a asp-action="CheckOut" asp-route-id="@item.BookingId" class="btn btn-success btn-sm">
+                                            <i class="fas fa-door-open"></i> Check Out
+                                        </a>
+                                    }
+                                    <a asp-action="Delete" asp-route-id="@item.BookingId" class="btn btn-danger btn-sm">
+                                        <i class="fas fa-trash"></i> Delete
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
